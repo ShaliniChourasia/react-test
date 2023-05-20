@@ -9,7 +9,9 @@ function App() {
         <p>Hi luke, Dont Worry</p>
         <p>hey there</p>
         <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-          Learn React here
+        Learn React here
+          </a>
+
         <p>
           Testing1
         </p>
@@ -22,7 +24,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Reactttttttttt
         </a>
       </header>
       <body>
