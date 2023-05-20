@@ -6,8 +6,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <p>Hi luke, Dont Worry</p>
+        <p>hey there</p>
+        <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
+        Learn React here
+          </a>
+
         <p>
-          Testing
+          Testing1
         </p>
         <p>
           Testing 2
@@ -21,9 +27,14 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Reactttttttttt
         </a>
       </header>
+      <body>
+        <p>
+          This is body of my react app
+        </p>
+      </body>
     </div>
   );
 }
